@@ -1,0 +1,60 @@
+body{
+	margin: 30px 70px 10px 70px;
+}
+
+.right{
+	text-align: right;
+}
+
+#form-center{
+	max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#form-left{
+	display: inline-block;
+    text-align: left;
+}
+
+.text-input{
+	width: 200px;
+}
+
+#error{
+	color: red;
+}
+
+#button{
+	float: right;
+	height: 30px;
+	width: 50px;
+}
+
+textarea{
+	width: 300px;
+	height: 70px;
+}
+
+#line{
+	border-bottom: double 5px gray;
+	margin-top: 10px;
+}
+
+.post{
+	max-width: 90%;
+	margin-top: 20px;
+	border-bottom: solid 0.3px gray;
+}
+
+.content{
+	margin-left: 50px;
+}
+
+.file{
+	margin-left: 50px;
+}
+
+.post-right{
+	float: right;
+}
